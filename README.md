@@ -18,6 +18,14 @@
 <a href="https://linkedin.com/in/abhishek-shettar-46342315b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-shettar-46342315b" height="30" width="40" /></a>
 <a href="https://medium.com/@abhishekshetter1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishekshetter1999" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishek_k_shettar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_k_shettar" height="30" width="40" /></a>
+       <a href="https://www.hackerrank.com/profile/abhishekshetter1" target="_blank"
+        ><img
+          align="center"
+          src="https://th.bing.com/th/id/OIP.pY8O2C_T47berB4eU-qZ5AHaHa?w=180&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+          alt="AbhishekShetter1"
+          height="30"
+          width="40"
+      /></a>
 <a href="https://discord.gg/dy2XygGY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".asitachi" height="30" width="40" /></a>
 </p>
 
